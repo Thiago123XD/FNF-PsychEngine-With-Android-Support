@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				86,
+				51
+			],
+			"loop": true,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				147,
+				27
+			],
+			"loop": true,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				205,
+				79
+			],
+			"loop": true,
+			"anim": "singUP",
+			"fps": 30,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				116,
+				55
+			],
+			"loop": true,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				67
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				55
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "altIDLE"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "altLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "altRIGHT"
+		},
+		{
+			"offsets": [
+				34,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "altUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Holy Mami",
+	"position": [
+		0,
+		-80
+	],
+	"healthicon": "mamih",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		126
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
